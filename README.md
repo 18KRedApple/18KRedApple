@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @18KGlintInnovator
+- 👋 Hi, I’m @18RedApple
 
 <!---
 18KGlintInnovator/18KGlintInnovator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
